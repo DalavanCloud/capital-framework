@@ -7,11 +7,28 @@ We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 -
 
 ### Changed
--
+- **capital-framework:** [MINOR] Update babel dependencies.
+- **capital-framework:** [PATCH] Update chalk dependency.
+- **capital-framework:** [PATCH] Update deepmerge dependency.
+- **capital-framework:** [PATCH] Update jest dependencies.
+- **capital-framework:** [MINOR] Update stylelint dependencies.
+- **capital-framework:** [MINOR] Change stylelint configuration to JS file.
+- **cf-buttons:** [PATCH] Fix stylelint errors.
+- **cf-core:** [PATCH] Fix stylelint errors.
+- **cf-expandables:** [PATCH] Fix stylelint errors.
+- **cf-forms:** [PATCH] Fix stylelint errors.
+- **cf-grid:** [PATCH] Fix stylelint errors.
+- **cf-icons:** [PATCH] Fix stylelint errors.
+- **cf-layout:** [PATCH] Fix stylelint errors.
+- **cf-notifications:** [PATCH] Fix stylelint errors.
+- **cf-pagination:** [PATCH] Fix stylelint errors.
+- **cf-tables:** [PATCH] Fix stylelint errors.
+- **cf-typography:** [PATCH] Fix stylelint errors.
 
 ### Removed
 - **cf-atomic-component:** [PATCH] Removes unused data-set utility.
 - **cf-atomic-component:** [PATCH] Remove unused on-ready utility.
+- **capital-framework:** [PATCH] Remove unused jest-when dependency.
 
 ## 7.6.0 - 2018-12-11
 
