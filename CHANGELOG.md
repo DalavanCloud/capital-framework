@@ -26,9 +26,18 @@ We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 - **cf-typography:** [PATCH] Fix stylelint errors.
 
 ### Removed
-- **cf-atomic-component:** [PATCH] Removes unused data-set utility.
-- **cf-atomic-component:** [PATCH] Remove unused on-ready utility.
 - **capital-framework:** [PATCH] Remove unused jest-when dependency.
+
+
+## 7.7.0 - 2019-02-20
+
+### Changed
+- **cf-atomic-component:** Remove const from for loop for IE11.
+
+### Removed
+- **cf-atomic-component:** Removes unused data-set utility.
+- **cf-atomic-component:** Remove unused on-ready utility.
+
 
 ## 7.6.0 - 2018-12-11
 
